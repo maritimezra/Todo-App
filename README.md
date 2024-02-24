@@ -1,6 +1,6 @@
-# Todo App using Django and React
+# Todo App using
 
-This is a simple Todo application built using Django for the backend, React for the frontend, and styled with Tailwind CSS. It allows users to perform CRUD (Create, Read, Update, Delete) operations on their todo list.
+This is a simple Todo application built using Django for the backend, React for the frontend, and styled with Tailwind CSS. It allows users to perform CRUD (Create, Read, Update, Delete) operations on their Todo list.
 
 ## Features
 - User authentication
