@@ -1,4 +1,4 @@
-# Todo App using
+# Todo App
 
 This is a simple Todo application built using Django for the backend, React for the frontend, and styled with Tailwind CSS. It allows users to perform CRUD (Create, Read, Update, Delete) operations on their Todo list.
 
